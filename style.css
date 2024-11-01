@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('./Images/dragon_ball_background.jpg.jpg'); /* Dragon Ball-themed image */
+    background-image: url('./images/dragon_ball_background.jpg.jpg'); /* Dragon Ball-themed image */
     background-size: cover; /* Cover the entire background */
     background-position: center; /* Center the background */
     color: #333; /* Default text color */
